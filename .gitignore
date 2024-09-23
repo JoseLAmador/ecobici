@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
+# Ignore data files
 2024-08.csv
+viajes_data_limpia.csv
