@@ -1,6 +1,8 @@
-# Análisis de los patrones de uso de Eco-bici Agosto 2024🚴
+# Patrón de uso Ecobici - Agosto 2024 🚴
 
-Este estudio explora los patrones de uso del sistema Eco-bici en la Ciudad de México durante el mes de agosto de 2024, se identifican tendencias clave relacionadas con el comportamiento de los usuarios, horarios y días más populares, distribución por género y edad, así como la demanda en diferentes ciclo estaciones. Los resultados ofrecen una base para futuros análisis que permitan seguir ajustando y evolucionando el servicio de movilidad urbana.
+Este estudio explora los patrones de uso del sistema Ecobici durante el mes de **agosto de 2024.** Se identifican **tendencias clave** relacionadas con el comportamiento de los usuarios, horarios y días más populares, distribución por género y edad, así como la demanda en diferentes ciclo estaciones. Los resultados ofrecen una base para futuros análisis que permitan seguir ajustando y evolucionando el servicio de movilidad urbana.
+
+Se cuenta con **1,842,882** registros de viajes durante el mes de agosto 2024 y **677** ciclo estaciones disponibles
 
 ## Prerequisitos
 
