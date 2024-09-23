@@ -4,6 +4,8 @@ Este estudio explora los patrones de uso del sistema Ecobici durante el mes de *
 
 Se cuenta con **1,842,882** registros de viajes durante el mes de agosto 2024 y **677** ciclo estaciones disponibles
 
+El conjunto de datos fue obtenido de [Ecobici - Datos Abiertos](https://ecobici.cdmx.gob.mx/datos-abiertos/).
+
 ## Prerequisitos
 
 Antes de empezar, asegurate de tener los siguientes requerimientos:
