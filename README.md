@@ -9,6 +9,8 @@ Antes de empezar, asegurate de tener los siguientes requerimientos:
 - Tener un equipo _Windows/Linux/Mac_ con [Python 3.12.5+](https://www.python.org/).
 - Tener actualizado [`pip`](https://pip.pypa.io/en/stable/installing/) and [`virtualenv`](https://virtualenv.pypa.io/en/stable/installation/) o `conda` ([Anaconda](https://www.anaconda.com/distribution/)).
 
+- Descomprime los archivos
+
 ## Inicialización
 
 Para instalar las dependencias necesarias, puedes seguir los siguientes pasos.
