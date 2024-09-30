@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
+__pycache__
 # Ignore data files
 2024-08.csv
 viajes_data_limpia.csv
