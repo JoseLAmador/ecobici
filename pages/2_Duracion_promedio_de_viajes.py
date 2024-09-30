@@ -135,3 +135,35 @@ usuarios en horas no laborales.
 
 
 st.sidebar.markdown("*Reporte actualizado: septiembre 2024.*")
+
+# ==============================================================
+# Footer
+# ==============================================================
+
+footer = """
+  <style>
+  footer {
+    visibility: hidden;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0d1116;
+    text-align: center;
+    padding: 8px;
+    font-size: 12px;
+    color: rgb(191, 197, 211);
+  }
+
+  .footer a {
+    color: rgb(191, 197, 211);
+    text-decoration: none;
+  } 
+  </style>
+  <div class="footer">
+      <p> Hecho con ❤️ por <a href="https://mx.linkedin.com/in/josel-dev" target="_blank">Jose Luis Amador</a> | México 🇲🇽</p>
+  </div>
+  """
+st.markdown(footer, unsafe_allow_html=True)
